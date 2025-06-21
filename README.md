@@ -41,6 +41,8 @@ Businesses need to understand their customer base to optimize marketing, retenti
 - **Pandas, NumPy, Seaborn, Matplotlib**
 
 ---
+## Live Demo 
+https://customersegmentanalysis-gkh38avagma7cqrlqcg9tq.streamlit.app/
 
 ## 💻 Run Locally
 
